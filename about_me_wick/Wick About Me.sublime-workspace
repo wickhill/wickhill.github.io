@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"i",
+				"initial\ttext-align-last"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"inset\tborder-style"
+			],
+			[
+				"bord",
+				"border-style\tproperty"
+			],
+			[
+				"border-image",
+				"border-image-width\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"text-dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"text-decor",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"bold",
+				"bolder\tfont-weight"
+			],
+			[
+				"style",
+				"list-style\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"bolder\tfont-weight"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about_me_wick.html",
+			"settings":
+			{
+				"buffer_size": 5577,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about_me_wickCSS/about_me_wick.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about_me_wick.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/wickhill/Desktop/General Assembly 2019/Dash Tutorials/dashTutorials/dashTutorial3.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Dash Tutorials/dashTutorials/dashTutorial2.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Dash Tutorials/dashTutorials/dashTutorial1.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Dash Tutorials/dashTutorials/dashTutorial4.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/rinse_and_repeat/rinse_and_repeatCSS/rinse_and_repeat.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/rinse_and_repeat/rinse_and_repeat.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Dash Tutorials/dashTutorials/Wick Dash Tutorial Fullscreens/Wick Dash 03.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Dash Tutorials/dashTutorials/Wick Dash Tutorial Fullscreens/Wick Dash 02.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Dash Tutorials/dashTutorials/Wick Dash Tutorial Fullscreens/Wick Dash 01.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Wick About Me/Wick About Me Project",
+		"/Users/wickhill/Desktop/General Assembly 2019/General Assembly - Wick About Me/about_me_wickCSS/about_me_wick.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/General Assembly - Wick About Me/about_me_wick.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/General Assembly - Wick About Me/about_me_wick.js",
+		"/Users/wickhill/Desktop/General Assembly 2019/General Assembly - Wick About Me/about_me_wick.css/about_me_wick.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/rinse_and_repeat/r_and_r_singlePG_tests.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/Wick Dash Tutorial Fullscreens/Wick Dash 03.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/Wick Dash Tutorial Fullscreens/Wick Dash 02.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/Wick Dash Tutorial Fullscreens/Wick Dash 01.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/dashTutorial3.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/dashTutorial2.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/dashTutorial1.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/Wick's Versions of Dash Tutorials/Wick Dash 03.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/Wick's Versions of Dash Tutorials/Wick Dash 02.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/Wick's Versions of Dash Tutorials/Wick Dash 01.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/dashTutorial/dashTutorial4.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/rinse_and_repeat/rinse_and_repeat_alert.js",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/from_scratch/fromScratch.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/from_scratch/fromScratchCSS/fromScratch.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/Dash Tutorial/dashTutorial.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/from_scratch/fromScratch.js",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/code_along/CSS/style.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/pet_shop_lab/css/pet-shop-style.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/pet_shop_lab/pet-shop.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/code_along/index.html",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/rinse_and_repeat/rinse_and_repeat.css/rinse_and_repeat.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/From Scratch/fromScratchCSS/fromScratch.css",
+		"/Users/wickhill/Desktop/General Assembly 2019/Code in One Day - June 04 2019/bootcamp/From Scratch/fromScratch.html",
+		"/Users/wickhill/Desktop/bootcamp/code_along/index.html",
+		"/Users/wickhill/Desktop/bootcamp/code_along/CSS/style.css",
+		"/Users/wickhill/Desktop/bootcamp/pet_shop_lab/pet-shop.html",
+		"/Users/wickhill/Desktop/bootcamp/pet_shop_lab/css/pet-shop-style.css",
+		"/Users/wickhill/Desktop/bootcamp/pet_shop_lab/CSS/pet-shop-style.css",
+		"/Users/wickhill/Desktop/bootcamp/code_along/CSS/pet_shop_lab"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"left",
+			"i've"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about_me_wick.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5405,
+								5405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about_me_wickCSS/about_me_wick.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about_me_wick.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Wick About Me.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
